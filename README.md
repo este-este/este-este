@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @este-este!
+- 👋 Hi, I’m @este este!
 - 👀 I’m interested in robotics in general and the Petoi Bittle quadraped robot in particular.
 - 🌱 For the Bittle robot, I am working on both a Windows laptop based controller program and a customized fork of the OpenCatEsp32 source code.  The idea is to provide autonomous behavior for the robot where the BiBoard is the central nervous system and the laptop is the "Bittle brain".
     - The communication is wireless, using Bluetooth, but wireless via wifi is also a possibility.  So far, only a version of the customized OpenCatEsp32 source code is available (https://github.com/este-este/OpenCatEsp32_este/tree/este_release_001-00-00).  The laptop controller is still a WIP and is not yet available.
